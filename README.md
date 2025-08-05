@@ -17,7 +17,7 @@ This project aims to predict whether a customer is likely to accept a personal l
 3- Visualize key features like age, job, and marital status
 4- Data Preprocessing
 5- Handle categorical features using label encoding
-6-Split the dataset into training and test sets
+6- Split the dataset into training and test sets
 7- Modeling
 8- Train a Logistic Regression Classifier
 9- Evaluation
